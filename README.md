@@ -1,3 +1,7 @@
+# Projeto da faculdade
+
+ Caso não possua o node.js vai ser necessário o mesmo para a utilizar o comando NPM.
+
 # Aplicação React de Gerenciamento de Projetos e Tarefas
 
 Projeto criado com as bibliotecas React JS e Material UI.
